@@ -3,6 +3,6 @@ applications:
   memory: 512M
   instances: 1
   domain: mybluemix.net
-  name: Tracyjuan2
+  name: Tracyjuan2-1478938588953
   host: Tracyjuan2
   disk_quota: 1024M
